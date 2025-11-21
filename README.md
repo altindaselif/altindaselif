@@ -3,8 +3,6 @@ Read Me
 <h1 align="center">Hi 👋, I'm Elif</h1>
 <h3 align="center">A passionate Front-End Developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 📫 How to reach me **altindaselif@gmail.com**
 
 - ⚡ Fun fact **I am cinema and video game geek.**
