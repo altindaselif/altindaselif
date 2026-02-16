@@ -64,7 +64,7 @@ Here are some of the projects I've built to master Front-End concepts (DOM Manip
 
 ### 📈 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=altindaselif&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=altindaselif&show_icons=true&bg_color=18181b&title_color=8b5cf6&text_color=f4f4f5&icon_color=8b5cf6)
 
 ## 💻 Top Languages
 
