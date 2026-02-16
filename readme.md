@@ -58,7 +58,7 @@ Here are some of the projects I've built to master Front-End concepts (DOM Manip
 | **Frontend Quiz App** 🎯 | `Async/Await`, `JSON Handling`, `Accessibility` | [View](https://altindaselif.github.io/14-frontend-quiz-app/) |
 | **E-Commerce Product Page** 🛒 | `Lightbox Logic`, `Cart System`, `Responsive` | [View](https://altindaselif.github.io/19-ecommerce-product-page-main/) |
 
-👉 **[Check out my full Portfolio Website]([https://altindaselif.github.io/](https://altindaselif.github.io/elif-altindas-portfolio/))**
+👉 **[Check out my full Portfolio Website](https://altindaselif.github.io/elif-altindas-portfolio/)**
 
 ---
 
