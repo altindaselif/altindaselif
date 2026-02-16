@@ -26,10 +26,10 @@
 
 I am an **Electrical and Electronics Engineer** with 3 years of experience in the automotive industry (Renault Group), where I managed complex automation projects and "Digital Twin" systems. 
 
-Driven by a passion for creation and logic, I transitioned into **Front-End Development**. I bring my engineering mindset—analytical thinking, problem-solving, and attention to detail—into building robust, pixel-perfect, and user-friendly web applications.
+Driven by a passion for creation and logic, I transitioned into **Front-End Development**. I bring my engineering mindset—analytical thinking, problem-solving and attention to detail—into building robust, pixel-perfect and user-friendly web applications.
 
-* 🔭 I’m currently working on **Advanced JavaScript & React Projects**.
-* 🌱 I’m currently learning **State Management & Next.js**.
+* 🔭 I’m currently working on **Advanced JavaScript Projects**.
+* 🌱 I’m currently learning **State Management & React**.
 * 🎨 I love turning **Figma** designs into pixel-perfect code.
 * ⚡ Fun fact: I am a huge **Cinema & Video Game** geek 🎬🎮
 
