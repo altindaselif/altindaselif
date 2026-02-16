@@ -65,8 +65,8 @@ Here are some of the projects I've built to master Front-End concepts (DOM Manip
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=altindaselif&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altindaselif&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=altindaselif&show_icons=true&hide_border=true&bg_color=18181b&title_color=8b5cf6&icon_color=8b5cf6&text_color=f4f4f5" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altindaselif&layout=compact&hide_border=true&bg_color=18181b&title_color=8b5cf6&icon_color=8b5cf6&text_color=f4f4f5" height="180" alt="languages graph" />
 </div>
 
 ---
