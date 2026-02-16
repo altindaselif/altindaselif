@@ -64,11 +64,10 @@ Here are some of the projects I've built to master Front-End concepts (DOM Manip
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=altindaselif&show_icons=true&bg_color=18181b&title_color=8b5cf6&text_color=f4f4f5&icon_color=8b5cf6)
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=altindaselif&layout=compact&bg_color=18181b&title_color=8b5cf6&text_color=f4f4f5)
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=altindaselif&show_icons=true&bg_color=18181b&title_color=8b5cf6&text_color=f4f4f5&icon_color=8b5cf6&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=altindaselif&layout=compact&bg_color=18181b&title_color=8b5cf6&text_color=f4f4f5&hide_border=true" height="180" alt="languages graph" />
+</div>
 
 ---
 
