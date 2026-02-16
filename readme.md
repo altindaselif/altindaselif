@@ -41,7 +41,7 @@ Driven by a passion for creation and logic, I transitioned into **Front-End Deve
 
 | Core | Styling | Tools & Design |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> |
 
 </div>
 
