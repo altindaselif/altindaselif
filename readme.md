@@ -53,20 +53,20 @@ Here are some of the projects I've built to master Front-End concepts (DOM Manip
 
 | Project | Tech Stack | Live Demo |
 | :--- | :--- | :---: |
-| **Frontend Quiz App** 🎯 | `JS (Async/Await)`, `CSS Grid`, `Accessibility` | [View](https://altindaselif.github.io/14-frontend-quiz-app/) |
-| **Space Tourism Website** 🪐 | `JSON`, `Routing Logic`, `Responsive Design` | [View](https://altindaselif.github.io/26-space-tourism-website-main/) |
-| **Password Generator** 🔐 | `Web Crypto API`, `DOM Manipulation` | [View](https://altindaselif.github.io/13-password-generator-app/) |
-| **E-Commerce Product Page** 🛒 | `Lightbox Logic`, `Cart State Management` | [View](https://altindaselif.github.io/19-ecommerce-product-page-main/) |
+| **Tic Tac Toe Game** ❌⭕ | `Game Logic`, `Winning Algorithms`, `State Mgmt` | [View](https://altindaselif.github.io/21-tic-tac-toe/) |
+| **Pomodoro App** 🍅 | `Timer API`, `Audio Control`, `Circular Progress` | [View](https://altindaselif.github.io/28-pomodoro-app/) |
+| **Frontend Quiz App** 🎯 | `Async/Await`, `JSON Handling`, `Accessibility` | [View](https://altindaselif.github.io/14-frontend-quiz-app/) |
+| **E-Commerce Product Page** 🛒 | `Lightbox Logic`, `Cart System`, `Responsive` | [View](https://altindaselif.github.io/19-ecommerce-product-page-main/) |
 
-👉 **[Check out my full Portfolio Website](https://altindaselif.github.io/)**
+👉 **[Check out my full Portfolio Website]([https://altindaselif.github.io/](https://altindaselif.github.io/elif-altindas-portfolio/))**
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=altindaselif&show_icons=true&theme=radical&hide_border=true&bg_color=18181b&title_color=8b5cf6&icon_color=a1a1aa&text_color=f4f4f5" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altindaselif&layout=compact&theme=radical&hide_border=true&bg_color=18181b&title_color=8b5cf6&icon_color=a1a1aa&text_color=f4f4f5" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=altindaselif&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altindaselif&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 ---
