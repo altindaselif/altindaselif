@@ -58,6 +58,53 @@ Here are some of the projects I've built to master Front-End concepts (DOM Manip
 | **Frontend Quiz App** 🎯 | `Async/Await`, `JSON Handling`, `Accessibility` | [View](https://altindaselif.github.io/14-frontend-quiz-app/) |
 | **E-Commerce Product Page** 🛒 | `Lightbox Logic`, `Cart System`, `Responsive` | [View](https://altindaselif.github.io/19-ecommerce-product-page-main/) |
 
+<br />
+
+<details>
+  <summary><b>📂 Click to view 9 more high-quality projects</b></summary>
+  <br />
+  <ul>
+    <li>
+      <b>Space Tourism Website</b> - Multi-page layout using JSON data & Routing logic. 
+      <a href="https://altindaselif.github.io/26-space-tourism-website-main/">[Live Demo]</a>
+    </li>
+    <li>
+      <b>Time Tracking Dashboard</b> - JSON data visualization with daily/weekly filtering. 
+      <a href="https://altindaselif.github.io/11-time-tracking-dashboard-main/">[Live Demo]</a>
+    </li>
+    <li>
+      <b>Galleria Slideshow</b> - Masonry grid layout with custom slide logic. 
+      <a href="https://altindaselif.github.io/27-galleria-slideshow-site/">[Live Demo]</a>
+    </li>
+    <li>
+      <b>Bookmark Landing Page</b> - Interactive tabbed interface & accordion menu. 
+      <a href="https://altindaselif.github.io/25-bookmark-landing-page-master/">[Live Demo]</a>
+    </li>
+    <li>
+      <b>Room Landing Page</b> - Fully responsive layout with custom carousel logic. 
+      <a href="https://altindaselif.github.io/elif-altindas-portfolio/">[Live Demo]</a>
+    </li>
+    <li>
+      <b>Password Generator</b> - Secure string generation algorithms with custom settings. 
+      <a href="https://altindaselif.github.io/13-password-generator-app/">[Live Demo]</a>
+    </li>
+    <li>
+      <b>BMI Calculator</b> - Unit conversion logic with real-time mathematical processing. 
+      <a href="https://altindaselif.github.io/20-bmi-calculator/">[Live Demo]</a>
+    </li>
+    <li>
+      <b>Tip Calculator</b> - Interactive bill splitting with real-time updates. 
+      <a href="https://altindaselif.github.io/12-tip-calculator-app-main/">[Live Demo]</a>
+    </li>
+    <li>
+      <b>Contact Form</b> - Robust client-side validation with custom error handling. 
+      <a href="https://altindaselif.github.io/17-contact-form-main/">[Live Demo]</a>
+    </li>
+  </ul>
+</details>
+
+<br />
+
 👉 **[Check out my full Portfolio Website](https://altindaselif.github.io/elif-altindas-portfolio/)**
 
 ---
