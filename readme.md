@@ -82,7 +82,7 @@ Here are some of the projects I've built to master Front-End concepts (DOM Manip
     </li>
     <li>
       <b>Room Landing Page</b> - Fully responsive layout with custom carousel logic. 
-      <a href="https://altindaselif.github.io/elif-altindas-portfolio/">[Live Demo]</a>
+      <a href="https://altindaselif.github.io/24-room-homepage-master/">[Live Demo]</a>
     </li>
     <li>
       <b>Password Generator</b> - Secure string generation algorithms with custom settings. 
