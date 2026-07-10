@@ -53,8 +53,8 @@ Driven by a passion for creation and logic, I transitioned into **Front-End Deve
 | Project                            | Tech Stack                              |                     Live Demo                     |                         Source Code                         |
 | :--------------------------------- | :-------------------------------------- | :-----------------------------------------------: | :---------------------------------------------------------: |
 | **Slap Pelayo: Real-Time Clicker** | `Geo-IP APIs`, `i18n`, `Firebase`       | [Live Site](https://mafinslappelayo.netlify.app/) | [GitHub](https://github.com/altindaselif/mafin-slap-pelayo) |
-| **Clown Cloe: Interactive Canvas** | `HTML5 Canvas`, `Audio API`, `Firebase` | [Live Site](https://mafinclowncloe.netlify.app/)  | [GitHub](https://github.com/altindaselif/mafin-clown-cloe)  |
 | **Whack A Bianca: React Arcade Game** | `React 19`, `Custom Hooks`, `Firebase` | [Live Site](https://mafinesabianca.netlify.app/) | [GitHub](https://github.com/altindaselif/mafin-whack-a-bianca) |
+| **Clown Cloe: Interactive Canvas** | `HTML5 Canvas`, `Audio API`, `Firebase` | [Live Site](https://mafinclowncloe.netlify.app/)  | [GitHub](https://github.com/altindaselif/mafin-clown-cloe)  |
 
 #### 🚀 Advanced React Applications
 
