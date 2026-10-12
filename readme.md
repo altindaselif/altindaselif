@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Based in <b>Eskişehir, Turkey</b> 🇹🇷 | Building scalable, accessible & responsive web apps using <b>React, Modern CSS & Vanilla JS</b>.
+  Based in <b>Eskişehir, Turkey</b> 🇹🇷 | Open to remote | Building and shipping production web apps with <b>React, Cloudflare Workers & Vanilla JS</b> — independent projects have organically served over <b>8 million user interactions</b>.
 </p>
 
 ---
@@ -28,7 +28,8 @@ I am an **Electrical and Electronics Engineer** with 3 years of experience in th
 
 Driven by a passion for creation and logic, I transitioned into **Front-End Development**. I bring my engineering mindset (analytical thinking, problem-solving and attention to detail) into building robust, pixel-perfect and user-friendly web applications.
 
-- 🔭 I’m currently architecting **Advanced React Projects**.
+- 🔭 I’m currently building a **bilingual media archive** on Cloudflare Workers, R2 and a headless CMS.
+- 🚀 My projects run in production with real users, so I own the whole lifecycle: architecture, performance, accessibility and deployment.
 - 🎨 I love turning **Figma** designs into pixel-perfect code.
 - ⚡ Fun fact: I am a huge **Cinema & Video Game** geek 🎬🎮
 
@@ -40,7 +41,7 @@ Driven by a passion for creation and logic, I transitioned into **Front-End Deve
 
 |                              Core                              |                             Styling                             |                            Tools & Design                            |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react" /> | <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" /> | <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,cloudflare" /> |
 
 </div>
 
@@ -52,7 +53,8 @@ Driven by a passion for creation and logic, I transitioned into **Front-End Deve
 
 | Project                            | Tech Stack                              |                     Live Demo                     |                         Source Code                         |
 | :--------------------------------- | :-------------------------------------- | :-----------------------------------------------: | :---------------------------------------------------------: |
-| **Slap Pelayo: Real-Time Clicker** | `Geo-IP APIs`, `i18n`, `Firebase`       | [Live Site](https://mafinslappelayo.netlify.app/) | [GitHub](https://github.com/altindaselif/mafin-slap-pelayo) |
+| **MAFIN Fandom: Media Archive** <br/> <sub>bilingual SPA on the edge, in progress</sub> | `React`, `Cloudflare Workers`, `R2`, `Headless CMS` | [Preview](https://archivo.universomafin.workers.dev) | [GitHub](https://github.com/altindaselif/mafin-archive) |
+| **Slap Pelayo: Real-Time Clicker** <br/> <sub>7.5M+ interactions, zero paid promotion</sub> | `Geo-IP APIs`, `i18n`, `Firebase`       | [Live Site](https://mafinslappelayo.netlify.app/) | [GitHub](https://github.com/altindaselif/mafin-slap-pelayo) |
 | **Whack A Bianca: React Arcade Game** | `React 19`, `Custom Hooks`, `Firebase` | [Live Site](https://mafinesabianca.netlify.app/) | [GitHub](https://github.com/altindaselif/mafin-whack-a-bianca) |
 | **Clown Cloe: Interactive Canvas** | `HTML5 Canvas`, `Audio API`, `Firebase` | [Live Site](https://mafinclowncloe.netlify.app/)  | [GitHub](https://github.com/altindaselif/mafin-clown-cloe)  |
 
@@ -100,8 +102,8 @@ Driven by a passion for creation and logic, I transitioned into **Front-End Deve
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=altindaselif&show_icons=true&bg_color=18181b&title_color=8b5cf6&text_color=f4f4f5&icon_color=8b5cf6&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=altindaselif&layout=compact&bg_color=18181b&title_color=8b5cf6&text_color=f4f4f5&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api?username=altindaselif&show_icons=true&hide=stars,issues,prs&bg_color=18181b&title_color=8b5cf6&text_color=f4f4f5&icon_color=8b5cf6&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api/top-langs/?username=altindaselif&layout=compact&bg_color=18181b&title_color=8b5cf6&text_color=f4f4f5&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 ---
