@@ -95,7 +95,7 @@ Driven by a passion for creation and logic, I transitioned into **Front-End Deve
 
 <br />
 
-👉 **[Check out my full Portfolio Website](https://altindaselif.github.io/elif-altindas-portfolio/)**
+👉 **[Check out my Portfolio](https://elifaltindas.netlify.app/)** — 8,060,610 recorded interactions across 66 countries, with a case study behind every number.
 
 ---
 
