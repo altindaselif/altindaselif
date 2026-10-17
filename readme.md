@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://elifaltindas.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-elifaltindas.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-elifaltindas.netlify.app-8A1B38?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/elifaltindas/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
@@ -102,8 +102,8 @@ Driven by a passion for creation and logic, I transitioned into **Front-End Deve
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api?username=altindaselif&show_icons=true&hide=stars,issues,prs&theme=github_dark&hide_border=true&card_width=450" width="400" alt="stats graph" />
-  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api/top-langs/?username=altindaselif&layout=compact&theme=github_dark&hide_border=true&card_width=450" width="400" alt="languages graph" />
+  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api?username=altindaselif&show_icons=true&hide=stars,issues,prs&bg_color=18181b&title_color=FFF1EA&text_color=f4f4f5&icon_color=E3FF55&hide_border=true&card_width=450" width="400" alt="stats graph" />
+  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api/top-langs/?username=altindaselif&layout=compact&bg_color=18181b&title_color=FFF1EA&text_color=f4f4f5&hide_border=true&card_width=450" width="400" alt="languages graph" />
 </div>
 
 ---
