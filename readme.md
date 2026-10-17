@@ -5,8 +5,8 @@
 <h1 align="center">Electrical Engineer turned Front-End Developer 👩‍💻</h1>
 
 <p align="center">
-  <a href="https://github.com/altindaselif">
-    <img src="https://komarev.com/ghpvc/?username=altindaselif&style=flat-square&color=8b5cf6&label=Profile+Views" alt="Profile Views" />
+  <a href="https://elifaltindas.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-elifaltindas.netlify.app-8b5cf6?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/elifaltindas/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
