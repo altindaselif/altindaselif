@@ -55,7 +55,7 @@ Driven by a passion for creation and logic, I transitioned into **Front-End Deve
 | :--------------------------------- | :-------------------------------------- | :-----------------------------------------------: | :---------------------------------------------------------: |
 | **MAFIN Fandom: Media Archive** <br/> <sub>bilingual SPA on the edge, in progress</sub> | `React`, `Cloudflare Workers`, `R2`, `Headless CMS` | [Preview](https://archivo.universomafin.workers.dev) | [GitHub](https://github.com/altindaselif/mafin-archive) |
 | **Slap Pelayo: Real-Time Clicker** <br/> <sub>7.5M+ interactions, zero paid promotion</sub> | `Geo-IP APIs`, `i18n`, `Firebase`       | [Live Site](https://mafinslappelayo.netlify.app/) | [GitHub](https://github.com/altindaselif/mafin-slap-pelayo) |
-| **Whack A Bianca: React Arcade Game** <br/> <sub>35K+ hits, live country leaderboard</sub> | `React 19`, `Custom Hooks`, `Firebase` | [Live Site](https://mafinesabianca.netlify.app/) | [GitHub](https://github.com/altindaselif/mafin-whack-a-bianca) |
+| **Whack A Bianca: React Arcade Game** <br/> <sub>34,905 hits, live country leaderboard</sub> | `React 19`, `Custom Hooks`, `Firebase` | [Live Site](https://mafinesabianca.netlify.app/) | [GitHub](https://github.com/altindaselif/mafin-whack-a-bianca) |
 | **Clown Cloe: Interactive Canvas** <br/> <sub>500K+ interactions from the fandom</sub> | `HTML5 Canvas`, `Audio API`, `Firebase` | [Live Site](https://mafinclowncloe.netlify.app/)  | [GitHub](https://github.com/altindaselif/mafin-clown-cloe)  |
 
 #### 🚀 Advanced React Applications
