@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=18181b&fontColor=f4f4f5&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Elif%20Altındaş&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A1B38&fontColor=FFF1EA&height=250&section=header&text=Elif%20Alt%C4%B1nda%C5%9F&fontSize=64&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descAlignY=56&descAlign=50&descSize=22" />
 </div>
 
 <h1 align="center">Electrical Engineer turned Front-End Developer 👩‍💻</h1>
