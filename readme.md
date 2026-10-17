@@ -102,8 +102,8 @@ Driven by a passion for creation and logic, I transitioned into **Front-End Deve
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api?username=altindaselif&show_icons=true&hide=issues,prs&hide_rank=true&bg_color=FFF1EA&title_color=8A1B38&text_color=6E1029&icon_color=8A1B38&hide_border=true&card_width=450" width="400" height="129" alt="stats graph" />
-  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api/top-langs/?username=altindaselif&layout=compact&bg_color=FFF1EA&title_color=8A1B38&text_color=6E1029&icon_color=8A1B38&hide_border=true&card_width=450" width="400" height="129" alt="languages graph" />
+  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api?username=altindaselif&show_icons=true&hide=stars,issues,prs&hide_rank=true&line_height=32&bg_color=FFF1EA&title_color=8A1B38&text_color=6E1029&icon_color=8A1B38&hide_border=true&card_width=450" width="400" height="124" alt="stats graph" />
+  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api/top-langs/?username=altindaselif&layout=compact&bg_color=FFF1EA&title_color=8A1B38&text_color=6E1029&icon_color=8A1B38&hide_border=true&card_width=450" width="400" height="124" alt="languages graph" />
 </div>
 
 ---
