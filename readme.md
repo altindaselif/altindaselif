@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A1B38&fontColor=FFF1EA&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Elif%20Altındaş&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=18181b&fontColor=f4f4f5&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Elif%20Altındaş&descAlignY=55&descAlign=50" />
 </div>
 
 <h1 align="center">Electrical Engineer turned Front-End Developer 👩‍💻</h1>
 
 <p align="center">
   <a href="https://elifaltindas.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-elifaltindas.netlify.app-8A1B38?style=flat-square&labelColor=6E1029&logo=netlify&logoColor=E3FF55" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-elifaltindas.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/elifaltindas/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8A1B38?style=flat-square&labelColor=6E1029&logo=linkedin&logoColor=E3FF55" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:altindaselif@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-8A1B38?style=flat-square&labelColor=6E1029&logo=gmail&logoColor=E3FF55" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -102,8 +102,8 @@ Driven by a passion for creation and logic, I transitioned into **Front-End Deve
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api?username=altindaselif&show_icons=true&hide=stars,issues,prs&bg_color=8A1B38&title_color=E3FF55&text_color=FFF1EA&icon_color=E3FF55&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api/top-langs/?username=altindaselif&layout=compact&bg_color=8A1B38&title_color=E3FF55&text_color=FFF1EA&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api?username=altindaselif&show_icons=true&hide=stars,issues,prs&theme=github_dark&hide_border=true&card_width=450" width="400" alt="stats graph" />
+  <img src="https://github-readme-stats-zeta-eight-63.vercel.app/api/top-langs/?username=altindaselif&layout=compact&theme=github_dark&hide_border=true&card_width=450" width="400" alt="languages graph" />
 </div>
 
 ---
@@ -111,6 +111,6 @@ Driven by a passion for creation and logic, I transitioned into **Front-End Deve
 <div align="center">
   <p>Let's connect and build something amazing together!</p>
   <a href="https://www.linkedin.com/in/elifaltindas/">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-8A1B38?style=for-the-badge&labelColor=6E1029&logo=linkedin&logoColor=E3FF55" />
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
